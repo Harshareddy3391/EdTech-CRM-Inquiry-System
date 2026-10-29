@@ -2,8 +2,9 @@ import os
 from dotenv import load_dotenv
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from .database import Base, engine
+#from .database import Base, engine
 from .routers import admin, inquiries
+from .database import Base, engine
 
 load_dotenv()
 
