@@ -1,0 +1,6 @@
+{
+  "name": "EdTech CRM & Inquiry Portal",
+  "description": "Full-stack EdTech inquiry capture and administrative CRM system with custom JWT authentication, multi-criteria filtering, search, and Supabase PostgreSQL integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
